@@ -18,7 +18,7 @@
 ###
 
 <div align="center">
-  <a href = "https://github.com/ESCM1823/Projects/tree/master/JAVA" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="java logo"  /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="java logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="70" alt="microsoftsqlserver logo"  />
   <img width="12" />
