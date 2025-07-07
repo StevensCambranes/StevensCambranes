@@ -10,7 +10,7 @@ I started in the world of web development with HTML, CSS, and JavaScript, and al
 * ✉️  You can contact me at [cambranesstevens@gmail.com](mailto:cambranesstevens@gmail.com)
 * 🧠  I'm learning more technologies
 * 🤝  I'm open to collaborating on Projects that make me a better Dev
-* ⚡  I'm a 3D Printer Lover, Music and Video Games
+* ⚡  I'm a 3D Printer, Music and Video Games Lover
 
 ### Skills
 
